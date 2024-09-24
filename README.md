@@ -1,6 +1,6 @@
 ![Banner GIF](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
-<h3 align="center">A Full Stack Web Developer from India</h3>
+<h3 align="center">Persuing Web Development Full Stack</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenikhilsingh&label=Profile%20views&color=0e75b6&style=flat" alt="thenikhilsingh" /> </p>
