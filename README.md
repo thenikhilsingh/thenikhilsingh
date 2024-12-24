@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nikhilsingh26042004@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/3CxjfT](https://pdf.ac/3CxjfT)
+- 📄 Know about my experiences [https://pdf.ac/3CxjfT]([https://pdf.ac/3CxjfT](https://drive.google.com/file/d/1bjAt2l9ZNDSAKTA8-7twYpJWYX_zW6KC/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
