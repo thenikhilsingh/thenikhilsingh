@@ -7,7 +7,7 @@ Web Developer
 I am currently persuing B.Tech(CSE) from Mahatma gandhi Mission's College of Enginering and Technology which is affiliated with Dr. Abdul Kalam Technical University. Currently, I am learning Web Development Full Stack Course at DUCAT.
 
 * 🌍  I'm based in Noida Sector-62
-* 🖥️  See my portfolio at [Portfolio](http://thenikhilsingh.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Portfolio](https://thenikhilsingh-portfolio.vercel.app/)
 * ✉️  You can contact me at [nikhilsingh26042004@gmail.com](mailto:nikhilsingh26042004@gmail.com)
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  With great code comes great responsibility.
