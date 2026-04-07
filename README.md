@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello! I'm currently pursuing a B.Tech in Computer Science and Engineering from Mahatma Gandhi Mission's College of Engineering and Technology, affiliated with Dr. A.P.J. Abdul Kalam Technical University.
-
-Alongside my academic journey, I’m actively enhancing my skills in Web Development through a Full Stack Web Development course at DUCAT. I’m passionate about creating responsive, user-friendly web applications and continuously learning new technologies.
-
-Currently, I’m working as a "Web Developer Intern at BridgeKala", where I’m applying my skills in real-world projects, collaborating with teams, and gaining hands-on experience in the web development.
+I am a B.Tech Computer Science graduate from Mahatma Gandhi Missions College of Engineering (affiliated with Dr. A.P.J. Abdul Kalam Technical University) with a strong foundation in web development. Trained in MERN Stack Development at Ducat India, I specialize in building responsive and scalable applications using MongoDB, Express.js, React, and Node.js. Currently, I am working as a Junior Software Intern at Logix Shapers Offshore Pvt Ltd, where I contribute to real-world projects and continuously upskill in modern technologies.
 
 I’m open to exciting opportunities in web development and eager to contribute to impactful tech solutions. Let's connect!
 * 🌍  I'm based in Noida Sector-62
